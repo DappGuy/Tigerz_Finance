@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.js": "./static/js/main.bcc04251.chunk.js",
+    "main.js.map": "./static/js/main.bcc04251.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.00cc8b41.js",
+    "runtime-main.js.map": "./static/js/runtime-main.00cc8b41.js.map",
+    "static/js/2.601c2b84.chunk.js": "./static/js/2.601c2b84.chunk.js",
+    "static/js/2.601c2b84.chunk.js.map": "./static/js/2.601c2b84.chunk.js.map",
+    "static/js/3.1d3a9130.chunk.js": "./static/js/3.1d3a9130.chunk.js",
+    "static/js/3.1d3a9130.chunk.js.map": "./static/js/3.1d3a9130.chunk.js.map",
+    "static/js/4.becb9418.chunk.js": "./static/js/4.becb9418.chunk.js",
+    "static/js/4.becb9418.chunk.js.map": "./static/js/4.becb9418.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.ea3327008e1fac58a3a061b849fcecd2.js": "./precache-manifest.ea3327008e1fac58a3a061b849fcecd2.js",
+    "service-worker.js": "./service-worker.js",
+    "static/js/2.601c2b84.chunk.js.LICENSE.txt": "./static/js/2.601c2b84.chunk.js.LICENSE.txt",
+    "static/js/3.1d3a9130.chunk.js.LICENSE.txt": "./static/js/3.1d3a9130.chunk.js.LICENSE.txt",
+    "static/media/beefy.svg": "./static/media/beefy.6bc8a1cd.svg",
+    "static/media/bifi-logo.png": "./static/media/bifi-logo.39bd0f26.png",
+    "static/media/binancewallet.png": "./static/media/binancewallet.745a9935.png",
+    "static/media/bskt-logo.png": "./static/media/bskt-logo.dc2ec9f4.png",
+    "static/media/link-logo.png": "./static/media/link-logo.227c6a51.png",
+    "static/media/metamask.png": "./static/media/metamask.023762b6.png",
+    "static/media/trustwallet.png": "./static/media/trustwallet.edcc1ab5.png",
+    "static/media/walletConnectIcon.svg": "./static/media/walletConnectIcon.8215855c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00cc8b41.js",
+    "static/js/2.601c2b84.chunk.js",
+    "static/js/main.bcc04251.chunk.js"
+  ]
+}
